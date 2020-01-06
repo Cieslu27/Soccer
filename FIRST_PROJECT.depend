@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1578213850 source:d:\projekty\first_project\main.cpp
+	<iostream>
+	"class.h"
+
+1577569384 d:\projekty\first_project\class.h
+	<iostream>
+
+1577707491 source:d:\projekty\first_project\object.cpp
+	<iostream>
+	<cstdlib>
+	"class.h"
+
+1577302158 source:d:\projekty\first_project\program.cpp
+	<iostream>
+	<cstdlib>
+	"class.h"
+
